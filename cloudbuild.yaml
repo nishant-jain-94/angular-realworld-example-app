@@ -6,4 +6,4 @@ steps:
 artifacts:
   objects:
     location: 'gs://conduit-continuous-delivery'
-    path: ['dist/*']
+    paths: ['dist/*']
